@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiStackBaseApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ApiStackBaseApplication.class, args);
 	}
 }
