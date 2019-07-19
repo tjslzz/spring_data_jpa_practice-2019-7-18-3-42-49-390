@@ -46,6 +46,6 @@ dependencies {
     testCompile 'org.mockito:mockito-core:2.+'
 }
 flyway {
-    url = 'jdbc:h2:file:./target/foobar'
+    url = 'jdbc:h2:file:./database/court'
     user = 'sa'
 }
